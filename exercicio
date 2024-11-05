@@ -37,3 +37,15 @@ console.log (animais.indexOf("cachorro"));
 let frutas2=["maçã","banana", "uva"];
 
 console.log(frutas2.includes("laranja"));
+
+let nume = [1, 2, 3, 4];
+let soma = nume.reduce((acc, num)=> acc + num, 0);
+console.log(soma);
+
+let frutas3=["banana", "maçã", "laranja"];
+
+console.log(frutas3.includes("morango"));
+
+let sistemas2 = ["JavaScript", "Python", "Java"];
+
+console.log(sistemas2.indexOf("Python")); 
