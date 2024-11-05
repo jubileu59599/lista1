@@ -1,0 +1,39 @@
+let numeros = [10, 20, 5,30, 40]
+
+console.log(numeros.indexOf(5)); 
+
+
+let nomes=["Ana", "Beatriz", "Carlos"]
+
+console.log(nomes.includes("Carlos"));
+
+
+let frutas = ["maçã", "banana", "laranja"];
+
+console.log (frutas);
+
+
+let numero2 = [5, 10,15, 20];
+
+console.log(numero2.indexOf(15));
+
+
+let cores=["azul", "verde", "vermelho"]
+
+console.log(cores.includes("amarelo"));
+
+
+
+let sistemas = ["JavaScript", "Python", "Java"];
+
+console.log (sistemas);
+
+
+let animais =["gato", "cachorro", "pássaro","cachorro"];
+
+console.log (animais.indexOf("cachorro"));
+
+
+let frutas2=["maçã","banana", "uva"];
+
+console.log(frutas2.includes("laranja"));
